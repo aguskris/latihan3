@@ -6,3 +6,8 @@ public class kendaraan {
     void throttle(){
         System.out.println("Yamaha indonesia");
 }
+  
+    public String getjeniskendaraan(){
+        return jenisKendaraan;
+}
+ 
