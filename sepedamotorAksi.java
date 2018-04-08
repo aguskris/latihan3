@@ -17,4 +17,9 @@ public class sepedamotorAksi {
         System.out.print("Harganya \t: ");
         System.out.println(I.getHarga());
         
-     }
+        sepedamotor IT = new sepedamotor();
+        IT.setMerk("Juviter MX");
+        IT.setWarna("Hitam Biru");
+        IT.setHarga(17000000);
+        }
+    }
