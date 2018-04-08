@@ -11,3 +11,7 @@ public class kendaraan {
         return jenisKendaraan;
 }
  
+    public void setjenisKendaraan(String jenisKendaraan){
+        this.jenisKendaraan = jenisKendaraan;
+    }
+}
